@@ -1,0 +1,18 @@
+body {
+	padding: 10px;
+}
+form {
+    display:inline;
+}
+input {
+    width: 50%;
+}
+#button {
+    display: inline;
+    padding: 2px;
+    background-color: #C2E0FF;
+    cursor: pointer;
+}
+li:hover {
+    background-color: #E69980;
+}
